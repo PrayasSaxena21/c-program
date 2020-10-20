@@ -29,7 +29,7 @@
                     number[j] = a;
  
                 }
- 
+ // This code is use to sort the array
             }
  
         }
