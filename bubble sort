@@ -39,3 +39,4 @@
             printf("%d\n", number[i]);
  
     }
+     // This code is use to sort the array
