@@ -40,3 +40,10 @@
  
     }
      // This code is use to sort the array
+
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
